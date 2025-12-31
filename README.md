@@ -1,4 +1,4 @@
-<img width="1312" height="464" alt="image" src="https://github.com/user-attachments/assets/33284a05-9ed6-48c7-b11f-5fe490bbcb7c" />### Syrian Arabic Dialect Datasets
+### Syrian Arabic Dialect Datasets
 This repository contains datasets in Syrian Arabic Dialect, designed to support research in Natural Language Processing (NLP) tasks such as topic detection and sentiment analysis.
 
 Currently, two datasets are planned for release:
